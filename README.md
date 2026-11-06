@@ -2,7 +2,7 @@
 
 A football quiz game where you identify Manchester United players from their photos. Type the player's full name, get instant feedback, and see your final score at the end of 8 rounds.
 
-**Live demo:** Coming soon
+**Live demo:** [whos-that-bloke.vercel.app](https://whos-that-bloke.vercel.app)
 
 ![Welcome screen](screenshots/welcome_screen.png)
 
